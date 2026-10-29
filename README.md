@@ -18,7 +18,7 @@ customer experience and team decisions. Now I'm building the technical skills to
 ## 📂 Projects
 | Project | Description | Tools |
 |---|---|---|
-| Python Learning Journey *(coming soon)* | Exercises and games from my first year | Python |
+| [Python Learning Journey](https://github.com/Arman-Abdollahabadi/python-learning-journey) | Exercises and games from my first year | Python |
 | Restaurant Sales Analysis *(coming soon)* | Finding trends in café sales data | pandas, matplotlib |
 
 ## 📫 Contact
